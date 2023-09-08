@@ -1,0 +1,42 @@
+/* bodyのフォント種類を、「"Arial", "Meiryo", sans-serif」
+   フォントサイズを20px
+   テキストは全て中央寄せ
+*/
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+.color-skyblue {
+  color: skyblue;
+}
+
+.color-skypink {
+  color: rgb(255, 192, 203);
+}
+
+/* h1のフォントには、Googleフォント
+   h1の文字間は文字の大きさの1.2倍
+   h1に影
+   h1の下に3px（カラー：rgb(115, 115, 114)）の実線
+*/
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Sawarabi Gothic', sans-serif;
+  font-size: 40px;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 4px #888;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+
+#basic p {
+  font-weight: bold;
+}
+
+
+
+
+
+
+
