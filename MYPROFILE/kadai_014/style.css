@@ -21,6 +21,7 @@ body {
    h1の下に3px（カラー：rgb(115, 115, 114)）の実線
 */
 h1 {
+  font-family: 'Josefin Sans', sans-serif;
   font-family: 'Open Sans', sans-serif;
   font-family: 'Sawarabi Gothic', sans-serif;
   font-size: 40px;
