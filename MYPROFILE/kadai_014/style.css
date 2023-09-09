@@ -22,8 +22,8 @@ body {
 */
 h1 {
   font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Sawarabi Gothic', sans-serif;
+  /* font-family: 'Open Sans', sans-serif;
+  font-family: 'Sawarabi Gothic', sans-serif; */
   font-size: 40px;
   letter-spacing: 1.2em;
   text-shadow: 2px 2px 4px #888;
